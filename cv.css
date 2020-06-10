@@ -1,0 +1,24 @@
+.my-image {
+  border-radius: 50%;
+  border: 1px solid white;
+}
+header {
+  background-color: #DCDCDC;
+}
+.edu {
+  border-bottom: 2px solid grey;
+}
+.intern {
+  border-bottom: 2px solid grey;
+}
+.skills {
+  border-bottom: 2px solid grey;
+}
+.hobbies {
+  border-bottom: 2px solid grey;
+}
+.list li{
+  font-size: 20px;
+  font-style: italic;
+  font-family: sans-serif;
+}
